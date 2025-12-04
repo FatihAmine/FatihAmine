@@ -3,7 +3,7 @@
   # Hi, I'm Amine Fatih 👋  
   ### 🚀 Beginner Data Engineer | Building My Foundations
   
-  I'm starting my journey into Data Engineering —  
+  I'm starting my journey into Data Engineering  
   learning step by step and sharing my progress here on GitHub.
 
 </div>
@@ -33,7 +33,7 @@
 
 ---
 
-## 📚 What I'm Learning Right Now (Step by Step)
+## 📚 What I'm Learning Right Now 
 
 - Python for data engineering  
 - SQL fundamentals (joins, aggregations, subqueries)  
