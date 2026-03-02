@@ -24,8 +24,8 @@
 ## 🎖️ Professional Certifications
 | Provider | Certification | Status |
 | :--- | :--- | :--- |
-| **DataCamp** | Associate Data Engineer  <br> [![DEA0011213357146](DE-badge.png)](https://www.datacamp.com/certificate/DEA0011213357146) | ✅ Completed |
-| **DataCamp** | Professional Data Engineer <br> [![DE0013669962741](DE0013669962741.png)](https://www.datacamp.com/certificate/DE0013669962741) | ✅ Completed |
+| **DataCamp** | Associate Data Engineer :  <br><br><br> [![DEA0011213357146](DEA0011213357146.png)](https://www.datacamp.com/certificate/DEA0011213357146) | ✅ Completed |
+| **DataCamp** | Professional Data Engineer :  <br><br><br> [![DE0013669962741](DE0013669962741.png)](https://www.datacamp.com/certificate/DE0013669962741) | ✅ Completed |
 | **AWS/GCP** | Cloud Practitioner / Solutions Architect | 🔄 In Progress |
 
 ---
